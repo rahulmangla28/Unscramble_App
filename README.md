@@ -6,7 +6,7 @@ to make a word using all the letters from the displayed scrambled word.
 
 _**You can install preview from here**_
 
-[![Unscramble App](https://img.shields.io/badge/Unscramble%20App-v1.0.0-brightgreen)]()
+[![Unscramble App](https://img.shields.io/badge/Unscramble%20App-v1.0.0-brightgreen)](https://github.com/rahulmangla28/Unscramble_App/releases/tag/app-debug.apk)
 
 :scroll: Contents 
 ------------------
